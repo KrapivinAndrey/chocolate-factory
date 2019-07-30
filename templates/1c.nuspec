@@ -1,0 +1,20 @@
+﻿<package>
+  <metadata>
+    <id>Kontur.Retail.Enterprise</id>
+    <version>8.3.14.1694</version>
+    <title>Enterprise</title>
+    <authors>korotovskih</authors>
+    <owners>korotovskih</owners>
+    <licenseUrl>https://git.skbkontur.ru/edi1c/infra</licenseUrl>
+    <projectUrl>https://git.skbkontur.ru/edi1c/infra</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Enterprise</description>
+    <releaseNotes />
+    <copyright />
+    <tags />
+    <dependencies />
+  </metadata>
+  <files>
+    <file src="tools/**" target="tools"/>
+  </files>
+</package>
